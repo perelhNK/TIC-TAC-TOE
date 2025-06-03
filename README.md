@@ -77,8 +77,11 @@ A classic two‐player Tic Tac Toe game built with HTML, CSS, and JavaScript. Pl
 
 ---
 
-## Installation & Setup
 
-1. **Clone or Download** this repository:
-   ```bash
-   git clone https://github.com/your‐username/tic‐tac‐toe.git
+   
+![Capture d’écran 2025-06-03 175016](https://github.com/user-attachments/assets/4a85b33b-0edd-4da6-9652-c46fd0fad071)
+![Capture d’écran 2025-06-03 174900](https://github.com/user-attachments/assets/00e0769c-f7d0-40ac-971b-63eacc56dbd8)
+![Capture d’écran 2025-06-03 174942](https://github.com/user-attachments/assets/ef2ad926-9a1e-4cde-ad54-a9a3d6bcf755)
+
+
+   
