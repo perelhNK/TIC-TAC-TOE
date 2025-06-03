@@ -34,9 +34,6 @@ const winfunction = (letter) => {
     else{
         message.innerHTML = "&#x1F389; <br> 'O' Wins"
     }
-
-
-
 };
 
 const drawfunction = () =>{
@@ -97,12 +94,7 @@ const checkingwin = () => {
                 winfunction(element1);
             };
         };
-
     };
-
-
-
-
 };
 
 
@@ -132,24 +124,9 @@ element.addEventListener("click",()  => {
      count +=1;
      if( count == 9 ){
         drawfunction();
-
      }
 
     checkingwin();
-
-
-
-
-
-}
-
-
-
-
-)
-
-
-
-
-});
+  
+})});
 window.onload = enableButtons;
